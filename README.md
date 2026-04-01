@@ -165,12 +165,5 @@ Feel free to fork this repo and improve the project.
 
 ---
 
-## 📜 License
 
-This project is open-source and available under the MIT License.
-
----
-
-## ⭐ Support
-
-If you like this project, give it a ⭐ on GitHub!
+Naveenkumar Adanapattu
